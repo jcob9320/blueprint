@@ -16,7 +16,7 @@ blueprint:
       
       1. Ensure all wireless switches are connected to zigbee2mqtt.
       
-      2. Select the sensor with the entity ID = sensor.[THE NAE OF THE DEVICE YOU PAIRED]_action; from the dropdown for your desired switch device.
+      2. Select the sensor with the entity ID = sensor.[THE NAME OF THE DEVICE YOU PAIRED]_action; from the dropdown for your desired switch device.
       
       3. Create automation actions. Done!
       
