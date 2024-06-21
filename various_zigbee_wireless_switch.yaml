@@ -32,7 +32,7 @@ blueprint:
 
       For debugging note;
       
-        * If you want to know the details about the button action states, go to "/config/blueprints/automation/jcob9320/various_zigbee_wireless_switch.yaml"
+        * If you want to know the details about the button action states, go to "/config/blueprints/automation/kkqq9320/various_zigbee_wireless_switch.yaml"
 
     #Working trigger Actions backup
       # Tuya(TS0044)
